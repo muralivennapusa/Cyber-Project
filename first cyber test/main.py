@@ -5,8 +5,8 @@ key=file.read()
 
 base_url = "https://api.aimlapi.com/v1"
 api_key = key
-system_prompt = "You are a travel agent. Be descriptive and helpful."
-user_prompt = "Tell me about San Francisco"
+system_prompt = "You are a cyber case classifier consultant. Be descriptive and helpful."
+user_prompt = "Tell me what the penalties and jail time are for an offense of possession or use of tools or software intended for cybercrime and public interest litigation."
 
 api = OpenAI(api_key=api_key, base_url=base_url)
 
