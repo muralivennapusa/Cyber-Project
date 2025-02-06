@@ -1,0 +1,30 @@
+1. Domain - AI Cyber security
+
+	- CT-AICS - 01: Cyber Crime Case Classification
+
+		Description: Development of an NLP Model to guide citizens in filing cybercrime reports on the National Cyber Crime Reporting Portal (NCRP) correctly through a real time analysis of the description and incident supporting media files uploaded by the citizen.
+
+	- CT-AICS - 04: DNS Spoofing / Email Spoofing detection tool
+		
+		Description: The DNS Spoofing / Email Spoofing Detection Tool is designed to help individuals and organizations detect and prevent spoofing attacks.
+
+● DNS Spoofing: A cyberattack where attackers redirect users from legitimate websites to malicious ones by altering the DNS (Domain Name System) records.
+
+● Email Spoofing: A tactic where attackers forge the sender's email address to make it appear as if the email came from a trusted source, often used for phishing or spreading malware.
+
+This tool will monitor and identify suspicious activities in DNS records or email headers, helping users detect and mitigate spoofing attempts.
+
+
+2. Domain 1 -> Digital Forensics & Incident Response
+
+	- CT-DFIR - 01: Crime Hotspot Mapping and Behavioural Analysis System
+
+	Description: The project aims to create a user-friendly interface to assist law enforcement by mapping crime hotspots based on real-time FIR (First Information Report) data. It uses color-coded visualizations to highlight areas with high crime rates. It can filter these zones by various parameters like type of crime, time, and season. Additionally, the system extends to behavioral analysis of criminals and predictive insights, such as seasonal trends in crime patterns. The tool will also help in generating optimized patrol routes.
+
+
+	- CT-DFIR - 04: Narcotics Website Takeover Tool
+
+	Description: The Drug Website Takeover Tool is designed to assist law enforcement agencies in targeting and shutting down illegal drug-related websites operating on the surface web or dark web. These websites may promote or facilitate the sale of narcotics, launder money, or engage in other criminal activities.The tool will identify vulnerabilities in such websites and enable law enforcement to disrupt their operations by taking control of the site, blocking access, or shutting it down entirely, depending on legal authority and jurisdiction.
+
+
+	

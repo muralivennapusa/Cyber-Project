@@ -1,0 +1,38 @@
+01:21 PM 06-02-2025
+
+DOMAIN - AI Cyber security
+
+CT-AICS - 01: Cyber Crime Case Classification
+
+		Description: Development of an NLP Model to guide citizens in filing cybercrime reports on the National Cyber Crime Reporting Portal (NCRP) correctly through a real time analysis of the description and incident supporting media files uploaded by the citizen.
+
+
+POTENTIAL SOLUTIONS:
+
+model 1
+
+using ChatGPT API key prompt the report from citizens to categorize and classify a cyber crime to is respective offence as per law
+
+Advantages:
+- Easy implementation because ChatGPT has cleared BAR exam as a base model
+
+Disadvantages:
+- could be overlooked due to easy implementation
+
+Counter:
+- double down on features such as database of customer queries and analysis tabs by how frequent a certain cyber crime is
+
+
+model 2
+
+by means of NLP processing a user prompt to be classified to a cyber crime based on a data set.
+
+Advantages:
+- couldn't think of any
+
+Disadvantages:
+- most common implementation of an educated engineer
+
+Counter:
+- couldn't think of any
+
